@@ -1,17 +1,41 @@
 # 조남현의 자바스크립트 학습 일지
 
-### 01/29/2023 
+## 2023년
 
-  1. https://learn.microsoft.com/ko-kr/training/modules/build-simple-website/ 
-  따라하기
-     * 시작 - 01/29/2023  
-     * 종료 - 01/29/2023  
-     * 목적
-       * VS Code 설치
-       * HTML/CSS/JS의 사용 이유와 연관 관계 숙지
+### 01월
 
-  1. https://www.youtube.com/watch?v=ohpjJNal2lk 시청  
-     * 시작 - 01/29/2023
-     * 종료 - 01/29/2023
-     * 목적
-       * 네이버 웹사이트 분석을 통한 HTML/CSS/JS 연관 관계 추가 숙지
+#### 29일
+
+1. https://learn.microsoft.com/ko-kr/training/modules/build-simple-website/
+
+   - 수행 방법 - 따라 하기
+   - 예상 소요기간 - 1시간
+   - 시작 - 01/29/2023
+   - 종료 - 01/29/2023
+   - 목적
+     - VS Code 설치
+     - HTML/CSS/JS의 사용 이유와 연관 관계 숙지
+
+2. https://www.youtube.com/watch?v=ohpjJNal2lk
+   - 수행 방법 - 이해 시도나 돌려보기 없이 처음부터 끝까지 따라하기
+   - 예상 소요기간 - 30분
+   - 시작 - 01/29/2023
+   - 종료 - 01/29/2023
+   - 목적
+     - 네이버 웹사이트 분석을 통한 HTML/CSS/JS 연관 관계 추가 숙지
+
+### 02월
+
+#### 01일
+
+1. https://www.youtube.com/watch?v=cHnfS_5h4FM
+
+
+    * 수행 방법 - 이해 시도나 돌려보기 없이 처음부터 끝까지 따라하기
+    * 예상 소요기간 - 6시간
+    * 데드라인 - 02/08/2023
+    * 시작 - 02/01/2023
+    * 종료 - 미정
+    * 목적
+      * 앞으로의 커리큘럼에 대한 인지
+      * 크롬 개발자 도구와 JS에 노출 되기
